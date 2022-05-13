@@ -6,7 +6,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pxt-caesar-cipher-extension": "github:microbit-cz/pxt-caesar-cipher-extension#b08cc63458b79129d52df2c5ae5b0f735e88626a"
+        "pxt-caesar-cipher-extension": "github:microbit-cz/pxt-caesar-cipher-extension#22a9ed2b872c00ef704fa1c9f54e33cadfe09036"
     },
     "files": [
         "README.md",
